@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/cwal8202/TeamProject-ChoiJangHo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
